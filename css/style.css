@@ -180,3 +180,43 @@
   line-height: 29px;
   margin-bottom: 16px;
 }
+
+/* Second Brain Styles */
+.second-brain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  margin-bottom: 120px;
+}
+
+.second-brain .second-brain-content h6 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #30b868;
+  text-transform: uppercase;
+}
+
+.second-brain .second-brain-content h3 {
+  color: #001931;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 58px;
+  margin-bottom: 16px;
+}
+
+.second-brain .second-brain-content .checklist {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.second-brain .second-brain-content .checklist p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
